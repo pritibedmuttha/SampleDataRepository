@@ -1,13 +1,2 @@
-{
-   "status":"OK",
-   "data":[
-      {
-         "id":1,
-         "category":"For Him"
-      },
-      {
-         "id":2,
-         "category":"For Her"
-      }
-   ]
-}
+{"status":"OK","data":[{"id":1,"category":"For Him"},{"id":2,"category":"For Her"}]}
+
