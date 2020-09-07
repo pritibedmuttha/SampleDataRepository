@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "category": "For Him",
+  "data": [
+    {
+      "id": 1,
+      "name": "Bags",
+      "link": "https://www.fendi.com/us/for-him-gift-ideas_1?q=:relevance:category2:2100"
+    },
+    {
+      "id": 2,
+      "name": "Ready to Wear",
+      "link": "https://www.fendi.com/us/for-him-gift-ideas_1?q=:relevance:category2:2003"
+    },
+    {
+      "id": 3,
+      "name": "Shoes",
+      "link": "https://www.fendi.com/us/for-him-gift-ideas_1?q=:relevance:category2:2300"
+    },
+    {
+      "id": 4,
+      "name": "Accessories",
+      "link": "https://www.fendi.com/us/for-him-gift-ideas_1?q=:relevance:category2:2470:category2:2400:category2:2200:category2:2630:category2:2450:category2:2700"
+    }
+  ]
+}
