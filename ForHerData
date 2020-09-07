@@ -1,0 +1,26 @@
+{
+  "status": "OK",
+  "category": "For Her",
+  "data": [
+    {
+      "id": 1,
+      "name": "Bags",
+      "link": "https://www.fendi.com/us/for-her-gift-ideas?q=:relevance:category2:1200"
+    },
+    {
+      "id": 2,
+      "name": "Ready to Wear",
+      "link": "https://www.fendi.com/us/for-her-gift-ideas?q=:relevance:category2:1101"
+    },
+    {
+      "id": 3,
+      "name": "Shoes",
+      "link": "https://www.fendi.com/us/for-her-gift-ideas?q=:relevance:category2:1500"
+    },
+    {
+      "id": 4,
+      "name": "Accessories",
+      "link": "https://www.fendi.com/us/for-her-gift-ideas?q=:relevance:category2:1200a:category2:1700:category2:1300:category2:1900:category2:1800:category2:1600"
+    }
+  ]
+}
